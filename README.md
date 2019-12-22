@@ -13,16 +13,28 @@ A simple web application built using Golang to perform CRUD operations on a Mock
 ## Libraries
 
 I used mainly libraries that are included into Golang installation except for "mux" that can be installed from the command below
-```go get github.com/gorilla/mux```
+`go get github.com/gorilla/mux`
 
 ## Installing
 
 Download and install Golang
-```https://golang.org/dl/```
+
+```
+https://golang.org/dl/
+```
+
 Clone this repository
-```git clone thisRepo```
+
+```
+git clone thisRepo
+```
+
 Navigate into the downloaded folder and start the project
-```go run main.go```
+
+```
+go run main.go
+```
+
 This will start the api on port 8000 and you will be able to test it out through browser or apps like postman
 
 ## License
